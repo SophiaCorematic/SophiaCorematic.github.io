@@ -6,6 +6,6 @@ Check out my posts below!
 
 <img src="images/CuteCat.jpg" width="250" height="250">
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Courtesy to [markdown guide.org]([https://www.fast.ai](https://www.markdownguide.org/basic-syntax/#lists-1)) I was able to customise and try different ways to create blogs.  
 
 
