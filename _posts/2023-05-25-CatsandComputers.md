@@ -32,4 +32,4 @@ Creating a world where imagination takes flight.
 
 <img
   src="/images/CatComputer.jpg"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 250">
