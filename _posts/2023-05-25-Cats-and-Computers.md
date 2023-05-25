@@ -1,4 +1,4 @@
-## Cats and Computers: a poem to their beauty.
+## Cats and Computers. Who will rule the world?
 
 In a world of cats and computers so grand,<br> 
 A feline tech whiz, a tale I command. <br> 
