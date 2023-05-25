@@ -2,7 +2,7 @@
 Here we will discuss machine learning, AI, computer vision and all things learning (and sometimes cats).
 The purpose of the blog is to document my learning throughout the course of ELEC4630's Assignment 3. Specifically, to show what I have learnt and how it assisted me in completing the assignment. 
 
-<img src="images/CuteCat.jpg" width="100" height="100">
+<img src="images/CuteCat.jpg" width="250" height="250">
 
 
 
