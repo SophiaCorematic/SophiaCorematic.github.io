@@ -9,7 +9,7 @@ t-SNE is a nonlinear dimensionality reduction technique used to visualize and ex
 It was introduced by Laurens van der Maaten and Geoffrey Hinton in 2008. 
 Unlike linear techniques like Principal Component Analysis (PCA), t-SNE aims to preserve the local and global structure of the data by capturing nonlinear relationships.<br>
 And to put it simply, t-SNE can give us a intuition into how the data is arranged in a high-dimensional space. t-SNE plots can often be very colourful and to the untrained eye cool patterns or random, but as we learn more about them we will understand the power of a t-SNE plot.
-
+An example is presented below.
 <img
   src="/images/t-sne.png"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
