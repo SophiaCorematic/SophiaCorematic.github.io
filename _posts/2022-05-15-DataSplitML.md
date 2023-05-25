@@ -38,4 +38,9 @@ Each subset serves a specific purpose in the machine learning pipeline:
   3. Consideration for Imbalanced Data: In cases where the dataset is imbalanced (unequal class distribution), it is essential to ensure that each subset (training, testing
 
 ## What does this mean for my assignment?
-In the 00 fastai notebook supplied to us, a data splitter was already generated that we could use to split our data into training, testing and optimisation. I chose to have 60% training, 20% testing and 20% optimisation/validation. The split can be completed within the datablock. This is for data sets that are not already split, similar to our Q2, where we had to obtain our own data for the data set then subsequently split it into its own sub data sets. For Q3 the CIFAKE library/ data given already is split into training and testing. In this case we weren't supplied a validation data set as for the kaggle competition to be won, a validation data set is used on the model.
+In the 00 fastai notebook supplied to us, a data splitter was already generated that we could use to split our data into training, testing and optimisation. I chose to have 60% training, 20% testing and 20% optimisation/validation. The split can be completed within the datablock. This is for data sets that are not already split, similar to our Q2, where we had to obtain our own data for the data set then subsequently split it into its own sub data sets. For Q3 the CIFAKE library/ data given already is split into training and testing. In this case we weren't supplied a validation data set as for the kaggle competition to be won, a validation data set is used on the model.<br>
+
+An example of the code used. Here the splitter function within the datablock allows the ability to split the data into their respective categories.
+`dls = DataBlock(blocks=(ImageBlock, CategoryBlock), get_items=get_image_files, 
+splitter=RandomSplitter(valid_pct=0.2, seed=42), get_y=parent_label, item_tfms=[Resize(192, method='squish')]
+).dataloaders(Path('cat_or_not_train')) `
