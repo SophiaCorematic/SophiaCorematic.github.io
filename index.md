@@ -1,12 +1,7 @@
-Hello world!!! Welcome to my blog.
+## Hello world!!! Welcome to my *blog*.
 Here we will discuss machine learning, AI, computer vision and all things learning (and sometimes cats).
-![Image of A Cute Cat](images/Cute Cat.png)
+![Image of A Cute Cat](images/CuteCat.jpg)
 
-Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-I have a *blog*!
+The purpose of the blog is to document my learning throughout the course of ELEC4630's Assignment 3. Specifically, to show what I have learnt and how it assisted me in completing the assignment. 
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
