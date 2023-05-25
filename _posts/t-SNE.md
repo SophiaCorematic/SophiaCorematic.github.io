@@ -42,3 +42,10 @@ It enables us to explore and interpret high-dimensional data, revealing intricat
 It serves as a valuable tool for preprocessing, feature engineering, and model evaluation. Incorporating t-SNE into the machine learning pipeline can enhance our understanding of data, improve model performance, and facilitate decision-making in various domains.
 
 As the field of machine learning continues to advance, t-SNE will remain a fundamental technique for visual exploration and analysis of complex datasets, providing valuable insights into the underlying patterns and structures within high-dimensional data.
+
+## Applying t-SNE to my computer vision problem. 
+One task in our assignment is to tweak a pre-trained machine learning model vision_learer to classify real and fake images. After tweaking the model and achieving 95.78% I wanted to understand the high dimension data set better. One of the generated t-SNE plots from my analysis is as shown below:
+<img
+  src="/images/Q3 t-sne.png"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+
