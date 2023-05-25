@@ -43,3 +43,5 @@ An example of the code used. Here the splitter function within the datablock all
 `dls = DataBlock(blocks=(ImageBlock, CategoryBlock), get_items=get_image_files, 
 splitter=RandomSplitter(valid_pct=0.2, seed=42), get_y=parent_label, item_tfms=[Resize(192, method='squish')]
 ).dataloaders(Path('cat_or_not_train')) `
+## An interesting read on data splitting
+![Three pitfalls to avoid in machine learning by Patrick Riley](/images/d41586-019-02307-y.pdf)
