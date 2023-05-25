@@ -1,5 +1,9 @@
 # Understanding T-SNE: An Introduction to Dimensionality Reduction for Machine Learning
 
+<span style="color:red">
+Text content
+</span>
+
 In the realm of machine learning, dimensionality reduction techniques play a vital role in transforming high-dimensional data into a more manageable and visually interpretable representation. 
 One such technique that has gained significant popularity is t-SNE (t-Distributed Stochastic Neighbor Embedding). 
 In this blog post, we will explore what t-SNE means, how it is used, and why it is important for machine learning tasks.
