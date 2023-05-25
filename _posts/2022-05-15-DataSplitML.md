@@ -1,5 +1,6 @@
 # What is TTV split in Machine Learning?
 T: Training, T: Testing, V: Validation.
+
 Data splitting is a crucial step in machine learning that involves dividing a dataset into separate subsets for training, testing, and model optimization. 
 The proper allocation of data ensures that the model learns from a diverse range of examples, generalizes well to unseen data, and can be effectively evaluated for performance. In this blog post, I will discuss how to split data into training, testing, and optimization categories, including the required amount of data in each split and the significance of data size for training the model.
 
@@ -37,4 +38,4 @@ Each subset serves a specific purpose in the machine learning pipeline:
   3. Consideration for Imbalanced Data: In cases where the dataset is imbalanced (unequal class distribution), it is essential to ensure that each subset (training, testing
 
 ## What does this mean for my assignment?
-In the 00 fastai 
+In the 00 fastai notebook supplied to us, a data splitter was already generated that we could use to split our data into training, testing and optimisation. I chose to have 60% training, 20% testing and 20% optimisation/validation. The split can be completed within the datablock. This is for data sets that are not already split, similar to our Q2, where we had to obtain our own data for the data set then subsequently split it into its own sub data sets. For Q3 the CIFAKE library/ data given already is split into training and testing. In this case we weren't supplied a validation data set as for the kaggle competition to be won, a validation data set is used on the model.
