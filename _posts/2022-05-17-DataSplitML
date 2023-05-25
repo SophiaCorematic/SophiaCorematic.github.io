@@ -34,3 +34,6 @@ Each subset serves a specific purpose in the machine learning pipeline:
   b. Trade-off with Model Complexity: The model's complexity, such as the number of parameters, affects the amount of data required for training. More complex models generally require more data to avoid overfitting. 
   Simple models may achieve good performance with smaller datasets, while complex models may need larger datasets to effectively learn the underlying patterns.
   c. Consideration for Imbalanced Data: In cases where the dataset is imbalanced (unequal class distribution), it is essential to ensure that each subset (training, testing
+
+## What does this mean for my assignment?
+In the 00 fastai 
