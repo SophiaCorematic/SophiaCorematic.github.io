@@ -29,3 +29,5 @@ For in their presence, you'll find sheer delight. <br>
 As whiskers twitch and code dances with grace, <br> 
 Cats and computers, a purrfect embrace, <br> 
 Creating a world where imagination takes flight.
+
+<img src="images/Cat-and-computer.jpg" width="250" height="250">
