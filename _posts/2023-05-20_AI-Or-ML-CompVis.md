@@ -1,5 +1,9 @@
 # Understanding the Role of AI and Machine Learning in Computer Vision Applications
 
+<img
+  src="/images/ML_Or_AI.png"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+
 Computer vision, a subfield of artificial intelligence (AI), has revolutionised numerous industries by enabling machines to understand and interpret visual data. 
 With the advancements in AI and machine learning, computer vision has become an indispensable tool for tasks such as image recognition, object detection, and image segmentation. 
 However, it is crucial to understand when and why we should leverage AI and machine learning in computer vision applications. 
